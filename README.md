@@ -2,3 +2,4 @@
 jura integration testing
 
 new
+click
