@@ -2,3 +2,4 @@
 Click integration testing
 
 sign up
+test
