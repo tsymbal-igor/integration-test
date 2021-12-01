@@ -1,4 +1,4 @@
 # integration-test
 Click integration testing
 
-sign up v3.0
+sign up v4.0
