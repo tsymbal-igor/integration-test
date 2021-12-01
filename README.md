@@ -1,6 +1,4 @@
 # integration-test
 Click integration testing
 
-sign up
-test
-asd
+sign up v3.0
